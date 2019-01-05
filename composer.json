@@ -9,6 +9,14 @@
             "email": "prkrim@gmail.com"
         }
     ],
+	"autoload": {
+        "psr-4": {"Zobject\\": "src/"}
+    },
+	"config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
     "minimum-stability": "stable",
     "require": {}
 }
