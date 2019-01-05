@@ -1,0 +1,14 @@
+{
+    "name": "osbooster/zobject",
+    "description": "Contains Common Use Php Classes.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pramod Kumar",
+            "email": "prkrim@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
