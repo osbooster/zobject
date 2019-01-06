@@ -12,7 +12,6 @@
 	"autoload": {
         "psr-4": {"Zobject\\": "src/"}
     },
-	,
 	"extra": {
         "laravel": {
             "providers": [
