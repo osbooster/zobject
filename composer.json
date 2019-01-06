@@ -12,6 +12,14 @@
 	"autoload": {
         "psr-4": {"Zobject\\": "src/"}
     },
+	,
+	"extra": {
+        "laravel": {
+            "providers": [
+                "Zobject\\ZobjectServiceProvider"
+            ]
+        }
+    },
 	"config": {
         "preferred-install": "dist",
         "sort-packages": true,
